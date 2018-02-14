@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mensaje de repo2
+=======
+mensaje de repo1
+>>>>>>> origin/master
